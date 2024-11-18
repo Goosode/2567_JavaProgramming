@@ -2,7 +2,7 @@
 This Github for subject INT-108 OOP only
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Goosode&layout=compact&langs_count=10&hide=html,css)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Goosode&hide_progress=true)
 
 
 

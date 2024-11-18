@@ -8,6 +8,4 @@ This Github for subject INT-108 OOP only
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Goosode&" alt="Goosode" /></p>
 
-
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Goosode&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Goosode&theme=default)

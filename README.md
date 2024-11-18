@@ -10,4 +10,4 @@ This Github for subject INT-108 OOP only
 
 
 
-https://github-readme-stats.vercel.app/api/top-langs?method=repos;
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Goosode&theme=default)

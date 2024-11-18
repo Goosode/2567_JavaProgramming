@@ -10,4 +10,4 @@ This Github for subject INT-108 OOP only
 
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Goosode&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Goosode&theme=default)

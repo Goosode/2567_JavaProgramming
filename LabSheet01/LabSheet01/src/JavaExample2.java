@@ -22,6 +22,5 @@ public class JavaExample2 {
 		//Display results by dialog box
 		JOptionPane.showMessageDialog(null, "Total Price is " + frmTOtalPriceString + " baht."
 									+ "\nAdd VAT 7% is " + frmVAT + " baht.");
-		syste
 	}
 }

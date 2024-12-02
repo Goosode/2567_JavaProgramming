@@ -1,0 +1,16 @@
+import java.util.*;
+
+public class Lab102 {
+
+	public static void main(String[] args) {
+		//input
+		Scanner  scan = new Scanner(System.in);
+		
+		//Input time
+		System.out.print("Input the number of minutes : ");
+		float minute = scan.nextFloat();
+		
+		
+	}
+
+}

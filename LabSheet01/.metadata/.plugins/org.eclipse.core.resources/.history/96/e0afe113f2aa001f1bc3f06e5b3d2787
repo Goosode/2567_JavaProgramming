@@ -1,0 +1,15 @@
+import java.text.DecimalFormat;
+import java.util.*;
+
+public class JavaExample1_1 {
+
+	public static void main(String[] args) {
+		// input data from keyboard
+		Scanner scan = new Scanner(System.in);
+		// using next()
+		System.out.println("Enter your first name(using next): ");
+		
+		
+	}
+
+}

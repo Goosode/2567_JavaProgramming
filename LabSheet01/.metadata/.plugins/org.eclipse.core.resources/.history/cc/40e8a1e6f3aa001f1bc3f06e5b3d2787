@@ -1,0 +1,11 @@
+import javax.swing.*;
+
+public class JavaExample2 {
+
+	public static void main(String[] args) {
+		String productName = JOptionPane.showInputDialog("Input Product Name : ");
+		//input product unit
+		String productUitString = JOptionPane.showInputDialog("Input Product Unit : ");
+	}
+
+}

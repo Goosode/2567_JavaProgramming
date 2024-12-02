@@ -1,7 +1,7 @@
 import java.text.*;
 import javax.swing.*;
 
-public class Lab201 {
+public class Lab201_ {
 
 	public static void main(String[] args) {
 		final int BUFFET = 299;

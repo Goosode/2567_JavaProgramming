@@ -2,7 +2,7 @@ import javax.swing.*;
 import java.util.*;
 import java.text.*;
 
-public class Withdrawal {
+public class Withdrawal_ {
 
 	public static void main(String[] args) {
 		//random balance

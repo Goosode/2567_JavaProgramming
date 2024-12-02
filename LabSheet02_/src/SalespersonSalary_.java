@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class SalespersonSalary {
+public class SalespersonSalary_ {
 
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);

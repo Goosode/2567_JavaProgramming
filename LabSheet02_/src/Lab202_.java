@@ -1,6 +1,6 @@
-import java.util.*;
+import java.util.Scanner;
 
-public class Lab202 {
+public class Lab202_ {
 
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);		

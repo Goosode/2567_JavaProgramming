@@ -1,22 +1,25 @@
-import java.time.Year;
 import java.util.*;
 
 public class Lab102 {
 
-	public static void main(String[] args) {
-		//input
-		Scanner  scan = new Scanner(System.in);
+    public static void main(String[] args){
+        //input
+		Scanner scan = new Scanner(System.in);
 		
 		//Input time
 		System.out.print("Input the number of minutes : ");
 		int minute = scan.nextInt();
-		int day = minute / 24;
-		int year = day / 365;
+
+        //calculate
+        int year = minute / 525600;
+        //remaining day    
+        int remainMinute = minute % 525600;
+		int day = remainMinute / 1440;   
 		
 		//calculate
-		System.out.print(minute + "minutes is approximately "+ year + "years and" + day + "days");
-		
-		
+		System.out.print(minute + " minutes is approximately "+ year + " years and " + day + " days");
+
+        scan.close();
 	}
 
 }

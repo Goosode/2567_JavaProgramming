@@ -4,6 +4,7 @@ import java.text.*;
 public class Lab101 {
 
 	public static void main(String[] args) {
+		
 		Scanner scan = new Scanner(System.in);
 		
 		//decimal format

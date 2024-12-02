@@ -1,25 +1,27 @@
-import java.util.Scanner;
+import java.util.*;
 
 public class Lab202_ {
 
 	public static void main(String[] args) {
-		Scanner scanner = new Scanner(System.in);		
+		Scanner scanner = new Scanner(System.in);	
+		
+		System.out.print("Input number: ");
+		int number = scanner.nextInt();
+		
+		//Min value 
+		int tempNum = Integer.MIN_VALUE;
 		
 		while(true) {	
-			//Input 
-			System.out.print("Input number: ");
-			int number = scanner.nextInt();
-			
-			//Min value 
-			int tempNum = Integer.MIN_VALUE;
-			
 			//if tempNum more than number program will stop
 			if(tempNum > number) {
-				System.out.print("BYE BYE");
+				System.out.println();
+				System.out.println("BYE BYE");
 				break;
 			}
-			
 			tempNum = number;
+			
+			System.out.print("Input number: ");
+			number = scanner.nextInt();
 		}
 
 	}

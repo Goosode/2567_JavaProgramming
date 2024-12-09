@@ -3,6 +3,7 @@ import java.util.*;
 public class Lab202_ {
 
 	public static void main(String[] args) {
+		//use to input
 		Scanner scanner = new Scanner(System.in);	
 		
 		System.out.print("Input number: ");
@@ -23,6 +24,8 @@ public class Lab202_ {
 			System.out.print("Input number: ");
 			number = scanner.nextInt();
 		}
+		
+		scanner.close();
 
 	}
 

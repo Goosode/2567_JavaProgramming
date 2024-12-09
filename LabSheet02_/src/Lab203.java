@@ -5,6 +5,7 @@ import javax.swing.*;
 public class Lab203 {
 
 	public static void main(String[] args) {
+		//format number
 		DecimalFormat frm = new DecimalFormat("#.0");
 		
 		//Input weight

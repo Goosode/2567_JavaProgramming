@@ -3,7 +3,7 @@ import javax.swing.*;
 public class Lab303_1 {
 
 	public static void main(String[] args) {
-		//Input
+		//Input.
 		String input = JOptionPane.showInputDialog("Input a sentence:");
 		
 		int emptySpace = 0;

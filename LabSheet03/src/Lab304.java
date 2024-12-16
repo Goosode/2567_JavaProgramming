@@ -3,7 +3,6 @@ import java.util.*;
 public class Lab304 {
 
 	public static void main(String[] args) {
-		//Not finished
 		Scanner scanner = new Scanner(System.in);
 		
 		//input
@@ -13,27 +12,23 @@ public class Lab304 {
 		//variable
 		String firstName = "";
 		String lastName = "";
-		int emptySpace = 0;
 		
 		//if input have not last name
 		if(!fullName.contains(" ")) {
 			System.out.println("Incorrect Name");
 		}
-		
-		for(int i = 0; i < fullName.length(); i++) {
-			if(fullName.isBlank()) {
-				emptySpace += i;
+		else{
+			//find index of empty space
+			int emptySpace = fullName.indexOf(" ");	
+			firstName = fullName.substring(0, emptySpace);
+			lastName = fullName.substring(emptySpace + 1, fullName.length());
+
+					
+			// System.out.println(emptySpace);
+			System.out.println("First Name: " + firstName.toUpperCase());
+			System.out.println("Last Name: " + lastName.toLowerCase());
 		}
-			
-			firstName = fullName.substring(0);
-			lastName = fullName.substring(fullName.length()-1);
-		}
-		
-		System.out.println(emptySpace);
-		System.out.println(firstName);
-		System.out.println(lastName);
-		
+
 		scanner.close();
 	}
-
 }

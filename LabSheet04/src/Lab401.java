@@ -13,7 +13,7 @@ public class Lab401 {
 		
 		do {
 			varEmail = JOptionPane.showInputDialog("Input your e-mail:");
-			//if email is not null, use method to check first alphabet is @ or spacebar?
+			//if email is not null, use method to check first alphabet is @ or empty space?
 			if(varEmail != null && !varEmail.isEmpty()) {
 				CheckEmailError(varEmail);
 			}

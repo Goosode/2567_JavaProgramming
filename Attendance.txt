@@ -1,4 +1,4 @@
 StudentId: 2413110228
 StudentName: Yutasat Phuyorit
-Date: 12/09/2024
-Topic: String Method
+Date: 12/16/2024
+Topic: Method

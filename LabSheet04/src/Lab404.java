@@ -52,7 +52,7 @@ public class Lab404 {
 //===============================IsITSubject=======================================	
 	public static boolean IsITSubject(String subID) {	
 		return (subID.charAt(0) == '2' && subID.charAt(1) == '1' && subID.charAt(4) == '1');
-	}
+	}//IsITSubject end
 
 //================================DisplayData======================================
 	private static void DisplayData(boolean stuID, boolean subID) {

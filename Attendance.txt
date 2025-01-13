@@ -1,4 +1,4 @@
 StudentId: 2413110228
 StudentName: Yutasat Phuyorit
-Date: 12/23/2024
-Topic: Array and Array Method
+Date: 01/13/2025
+Topic: Class and Object

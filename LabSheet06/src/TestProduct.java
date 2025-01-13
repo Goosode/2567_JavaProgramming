@@ -3,14 +3,14 @@ public class TestProduct {
 
 	public static void main(String[] args) {
 		//obj
-		Product pro = new Product();
+		Product product = new Product();
 		
 		//set
-		pro.SetProductDetails("Smartphone", 30000.0f, 7.0f);
+		product.SetProductDetails("Smartphone", 30000.0f, 7.0f);
 		
 		//display
 		System.out.println("Product Details:");
-		pro.DisplayProductDetails();
+		product.DisplayProductDetails();
 
 	}
 

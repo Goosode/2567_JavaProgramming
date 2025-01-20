@@ -6,7 +6,7 @@ public class TestProductInput {
 	public static void main(String[] args) {
 		//obj
 		Scanner scanner = new Scanner(System.in);
-		Product pro = new Product();
+		Product product = new Product();
 
 		//set
 		System.out.print("Enter product name: ");
@@ -18,11 +18,11 @@ public class TestProductInput {
 		System.out.print("Enter VAT rate (%): ");
 		float vat = scanner.nextFloat();//vat rate
 		
-		pro.SetProductDetails(name, price, vat);
+		product.SetProductDetails(name, price, vat);
 		
 		//display
 		System.out.println("\nProduct Details:");
-		pro.DisplayProductDetails();
+		product.DisplayProductDetails();
 		
 		scanner.close();
 	}

@@ -1,4 +1,4 @@
-//========================== Lab5 ==========================
+//========================== Lab5 ===========================
 public class IncomeTaxCalculator {
 	//Attribute
 	private float income;

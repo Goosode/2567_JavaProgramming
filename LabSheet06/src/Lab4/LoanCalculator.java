@@ -1,4 +1,4 @@
-//========================== Lab4 ==========================
+//========================== Lab4 ===========================
 public class LoanCalculator {
 	//Attribute 
 	private String productName;

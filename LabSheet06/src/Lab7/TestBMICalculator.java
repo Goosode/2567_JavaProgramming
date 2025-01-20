@@ -1,4 +1,4 @@
-//========================== Lab7 ==========================
+//========================== Lab7 ===========================
 public class TestBMICalculator {
     public static void main(String[] args) {
         //obj

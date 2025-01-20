@@ -1,4 +1,4 @@
-//========================== Lab3 ==========================
+//========================== Lab3 ===========================
 public class TestProduct {
 
 	public static void main(String[] args) {

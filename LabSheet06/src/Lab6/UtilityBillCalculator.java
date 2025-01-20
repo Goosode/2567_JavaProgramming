@@ -1,4 +1,4 @@
-//========================== Lab6 ==========================
+//========================== Lab6 ===========================
 public class UtilityBillCalculator {
     //Attribute
     private float electricityUsage;

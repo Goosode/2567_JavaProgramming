@@ -1,5 +1,5 @@
 
-//========================== Lab4 ==========================
+//========================== Lab4 ===========================
 public class TestLoanCalculator {
 
 	public static void main(String[] args) {

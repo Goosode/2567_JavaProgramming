@@ -1,4 +1,4 @@
-//========================== Lab7 ==========================
+//========================== Lab7 ===========================
 public class BMICalculator {
     //attribute
     private float weight;

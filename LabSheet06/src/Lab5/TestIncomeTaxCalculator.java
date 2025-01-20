@@ -1,4 +1,4 @@
-//========================== Lab5 ==========================
+//========================== Lab5 ===========================
 public class TestIncomeTaxCalculator {
     public static void main(String[] args) {
         //Obj

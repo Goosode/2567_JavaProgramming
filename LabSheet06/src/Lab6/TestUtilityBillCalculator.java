@@ -1,4 +1,4 @@
-//========================== Lab6 ==========================
+//========================== Lab6 ===========================
 public class TestUtilityBillCalculator {
     public static void main(String[] args) {
         //Obj

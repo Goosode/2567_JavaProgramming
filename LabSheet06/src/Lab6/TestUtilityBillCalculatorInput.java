@@ -1,4 +1,4 @@
-//========================== Lab6 ==========================
+//========================== Lab6 ===========================
 import java.util.*;
 
 public class TestUtilityBillCalculatorInput {

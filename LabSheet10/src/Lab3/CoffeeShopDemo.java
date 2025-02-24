@@ -1,4 +1,4 @@
-
+package Lab3;
 import javax.swing.*;
 
 public class CoffeeShopDemo {

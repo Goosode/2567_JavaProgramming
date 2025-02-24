@@ -1,4 +1,4 @@
-
+package Lab3;
 //=================================== Lab3 ===================================
 public class TestInvoiceItem {
 	public static void main(String[] args) {

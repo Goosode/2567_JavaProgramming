@@ -1,9 +1,6 @@
 import java.util.*;
 
 public class MovieDemo {
-	
-	//not finish
-
 	public static void main(String[] args) {
 		//OBJ
 		Scanner scanner = new Scanner(System.in);
@@ -22,12 +19,10 @@ public class MovieDemo {
 		String directorEmail = scanner.nextLine();
 		System.out.print("Input director gender : ");
 		char gender = scanner.next().charAt(0);
-		scanner.nextLine();
 		
-		while(Character.toLowerCase(gender) != 'm' || Character.toLowerCase(gender) != 'f') {
+		while(Character.toLowerCase(gender) != 'm' && Character.toLowerCase(gender) != 'f') {
 			System.out.print("Input director gender, again : ");
 			gender = scanner.next().charAt(0);
-			scanner.nextLine();
 		}
 		System.out.println();
 		
@@ -51,5 +46,4 @@ public class MovieDemo {
 		
 		scanner.close();
 	}
-
 }

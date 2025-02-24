@@ -1,4 +1,4 @@
-
+package Lab2;
 //=================================== Lab2 ===================================
 public class Employee{
 	//======Attribute======
@@ -51,6 +51,9 @@ public class Employee{
 	}//raiseSalary end
 	
 	public String toString() {
-		return "Employee[id=" + this.id + ",name=" + getName() + ",salary=" + this.salary + "]";
+		return "Employee[id=" + this.id + 
+				",name=" + getName() + 
+				",salary=" + this.salary + 
+				"]";
 	}//toString end
 }

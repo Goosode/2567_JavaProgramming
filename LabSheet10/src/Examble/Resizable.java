@@ -1,4 +1,4 @@
-
+package Examble;
 //================================Example1==========================================
 
 public interface Resizable {

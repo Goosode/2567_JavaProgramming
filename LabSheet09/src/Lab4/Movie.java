@@ -1,4 +1,3 @@
-
 public class Movie {
 	//Attribute
 	private String id;
@@ -32,6 +31,6 @@ public class Movie {
 	}
 	
 	public String toString() {
-		return "[" + getId() + "] [" + getName() + "] direct by " + director;
+		return getId() + " " + getName() + " direct by " + director;
 	}
 }

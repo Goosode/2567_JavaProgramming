@@ -1,3 +1,5 @@
+package Example1;
+
 //=================================== Example1 ===================================
 public class TestRectangle {
 	public static void main(String[] args) {

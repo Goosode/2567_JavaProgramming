@@ -1,4 +1,4 @@
-
+package Lab5;
 //=========================================== Lab5 ===========================================
 public class TestSmartPhone {
     public static void main(String[] args) {

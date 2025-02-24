@@ -1,4 +1,3 @@
-
 public class Director {
 	//Attribute
 	private String name;
@@ -38,6 +37,6 @@ public class Director {
 	}
 	
 	public String toString() {
-		return  "[" + getName() + "] ([" + getEmail() + "];[" + getGenderName() + "])";
+		return getName() + " (" + getEmail() + ";" + getGenderName() + ")";
 	}
 }

@@ -1,4 +1,4 @@
-
+package Example2;
 //================================= Example2 ================================= 
 public class Author {
 	//Attribute

@@ -1,4 +1,4 @@
-
+package Lab3;
 //=================================== Lab3 ===================================
 public class InvoiceItem {
 	//======Attribute======
@@ -47,6 +47,10 @@ public class InvoiceItem {
 	}//getTotal end
 	
 	public String toString() {
-		return "InvoiceItem[id=" + this.id + ",desc=" + this.desc + ",qty=" + this.qty + ",unitPrice=" + this.unitPrice + "]";
+		return "InvoiceItem[id=" + this.id + 
+				",desc=" + this.desc + 
+				",qty=" + this.qty + 
+				",unitPrice=" + this.unitPrice + 
+				"]";
 	}//toString end
 }

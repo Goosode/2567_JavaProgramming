@@ -1,4 +1,4 @@
-
+package Example2;
 
 public class Employee {
 	//Attribute

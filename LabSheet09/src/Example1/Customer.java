@@ -1,4 +1,4 @@
-
+package Example1;
 
 public class Customer {
 	//Attribute

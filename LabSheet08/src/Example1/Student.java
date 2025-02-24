@@ -1,4 +1,4 @@
-
+package Example1;
 //================================= Example1 ================================= 
 public class Student {
 	//attribute
